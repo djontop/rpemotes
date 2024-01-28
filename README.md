@@ -1,6 +1,9 @@
 # <div align="center">RPEmotes 🏋️</div>
 
-
+# Credit -
+https://github.com/TayMcKenzieNZ/
+https://github.com/TayMcKenzieNZ
+https://github.com/TayMcKenzieNZ
 
 
 RPEmotes is a community driven FiveM emote menu allowing players to express themselves in roleplay with custom animations, countless facial expressions, walkstyles and props, inspired by [DullPear](https://github.com/andristum/dpemotes).
@@ -17,9 +20,7 @@ RPEmotes is a community driven FiveM emote menu allowing players to express them
     <a href="https://github.com/TayMcKenzieNZ/rpemotes/graphs/contributors"><img src="https://img.shields.io/github/contributors/TayMcKenzieNZ/rpemotes.svg?style=social&label=Contributors"></a>
 </p>
 
-
-
-# **Join Our Official Discord 💬**
+# **Join Our Official Discord 💬 [❗Inactivated [By - TayMcKenzieNZ ]❗]**
 
 <a href="https://discord.gg/sw3NwDq6C8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sw3NwDq6C8" height="120" width="180" /></a>
 
